@@ -1,4 +1,4 @@
-# Text To Image and Story Generation Project
+# AI-Powered Image Generation and Storytelling
 
 ![Project Logo](https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/smangrul/Text-To-Image.png) <!-- Add your project logo or image -->
 
